@@ -7,6 +7,7 @@
 <title>This is about page</title>
 </head>
 <body>
-<h1>this is about page
+<h1>this is about page</h1>
+<p> Hello java Developer</p>
 </body>
 </html>
