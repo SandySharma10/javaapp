@@ -4,11 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>This is about page</title>
+<title>Insert title here</title>
 </head>
 <body>
-<h1>this is about page</h1>
-<p> Hello java Developer</p>
-<a href="service.jsp"> Hello services</a>
+<h1>Hello Service page</h1>
 </body>
 </html>
